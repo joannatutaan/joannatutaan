@@ -1,5 +1,5 @@
-# Hello, I'm Joanna
-<a href="www.linkedin.com/in/joannatutaan"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm CHANGEME
+<a href="https://linkedin.com/joannatutaan"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
